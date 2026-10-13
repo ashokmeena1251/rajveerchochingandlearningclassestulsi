@@ -1,0 +1,15 @@
+{
+  "name": "rajveerchochingandlearningclassestulsi",
+  "version": "1.0.0",
+  "description": "C A NITIN MURARKA Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["landing-page", "vercel"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.14"
+  }
+}
